@@ -1,5 +1,5 @@
 /*This is the styles.css file*/
-h1, h3{
+h1, h3, p{
   margin: 0;
 }
 
@@ -19,6 +19,9 @@ h1, h3{
 .parte-der{
   display: flex;
   margin-left: auto;
-  justify-content: flex-end;
   flex-direction: column;
+}
+
+.parte-der img{
+  margin-left: auto;
 }
