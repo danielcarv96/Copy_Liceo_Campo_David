@@ -1,3 +1,21 @@
+footer {
+    text-align: center;
+    background-color: #07adee;
+    padding: 20px 0;
+    font-size: 18px;
+}
+
+body{
+    margin: 0;
+}
+
+footer span{
+    color: white;
+    font-family: sans-serif;
+    font-size: 0.9em;
+    line-height: 2em;
+}
+
 h1, h3, p,a{
   margin: 0;
   color:black;
