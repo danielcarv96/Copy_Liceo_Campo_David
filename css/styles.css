@@ -24,4 +24,17 @@
   background-repeat: no-repeat;
   background-size: cover;
   margin: auto;
+  position: relative;
+}
+
+.left-btn{
+  position: absolute;
+  left: 0;
+  top: 205px;
+}
+
+.right-btn{
+  position: absolute;
+  right: 0;
+  top: 205px;
 }
