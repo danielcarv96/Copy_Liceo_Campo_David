@@ -1,4 +1,3 @@
-/*This is the styles.css file*/
 h1, h3, p,a{
   margin: 0;
   color:black;
@@ -45,7 +44,6 @@ h3{
   display: inline-block;
 }
 .navegador a {
-  background: linear-gradient(white, white);
   padding: 10px 10px;
   text-decoration: none;
   color: black;
@@ -53,9 +51,9 @@ h3{
 }
 
 .navegador a:hover {
-  background: #a5cc3a;
+  background-color: #a5cc3a;
   color: #fff;
 }
 .navegador a:focus {
-  background: #07adee;
+  background-color: #07adee;
 }
