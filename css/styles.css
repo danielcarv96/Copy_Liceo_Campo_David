@@ -1,0 +1,19 @@
+.right-btn svg{
+  -webkit-transform: scaleX(-1);
+  transform: scaleX(-1);
+}
+
+.slider-btn svg{
+  width: 18px;
+  fill: #00bdb8;
+}
+
+.slider-btn svg:hover{
+  fill: #6fe2d5;
+}
+
+.slider-btn{
+  background: none;
+  border: none;}
+}
+
