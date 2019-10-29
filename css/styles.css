@@ -1,1 +1,14 @@
-/*This is the styles.css file*/
+.dia-ciencia{
+  box-sizing: border-box;
+  width: 80%;
+  display: flex;
+  flex-direction: column;
+  margin: 0 auto;
+  align-items: center;
+  padding: 0 100px;
+}
+.horizontal{
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
